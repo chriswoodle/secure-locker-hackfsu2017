@@ -43,6 +43,7 @@ This is an electronic locker meant to store secure items, sucha as firearms and 
 * Raspberry Pi Camera V2.1
 * [Adafruit 12-Key Capacitive Touch Sensor Breakout - MPR121](https://www.adafruit.com/product/1982)
 * RFID-RC522 module
+* Adafruit Neo Pixel Strip RGBW
 * Standard 5V servo
 * 5V 10A Power supply (less current may be acceptable, servo must be externally powered)
 * [Mechanical limit switch](https://www.amazon.com/Cylewet-V-156-1C25-Momentary-Arduino-CYT1046/dp/B06WRN7FQB/ref=pd_sim_328_6?_encoding=UTF8&pd_rd_i=B06WRN7FQB&pd_rd_r=8K1SJ0T8BE8SWR0357ZS&pd_rd_w=7nupS&pd_rd_wg=myJ3e&psc=1&refRID=8K1SJ0T8BE8SWR0357ZS) + pull down resistor
