@@ -32,6 +32,7 @@ This is an electronic locker meant to store secure items, sucha as firearms and 
 * Amazon Rekognition
 * Redis
 * BOINC
+* Twilio
 
 # Hardware
 
