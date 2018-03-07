@@ -1,6 +1,6 @@
 # About
 
-This is an electronic locker meant to store secure items, sucha as firearms and ammunition. The locker operates using facial recognition, which is activated by a touch sensitive handle that uses a capacitive sensor. Submitted to HackFSU 2018.
+This is an electronic locker meant to store secure items, sucha as firearms and ammunition. The locker operates using facial recognition, which is activated by a touch sensitive handle that uses a capacitive sensor. Code developed and submitted at HackFSU 2018. 
 
 # Team and contributers
 
@@ -36,6 +36,8 @@ This is an electronic locker meant to store secure items, sucha as firearms and 
 
 # Hardware
 
+Hardware noted with prices were purchased during the event at local stores. 
+
 ## Electronics
 * Arduino Uno
 * Arduino Micro
@@ -57,22 +59,22 @@ This is an electronic locker meant to store secure items, sucha as firearms and 
 * Premanufactured unfinished cabinet with hinged door ($50 from The Home Depot)
 * Barrel Bolt lock ($4 from The Home Depot)
 * Small wood screws
-* Metal door handle (conductive, uncoated)
-* <1' Bare solid strand copper wire (Thick diameter, similar to coat hanger)
+* Metal door handle (conductive, uncoated, $4 from The home Depot)
+* <1' Bare solid strand copper wire (Thick diameter, similar to coat hanger, <$1)
 * Small angle brackts ($3 from Homedepot)
-* Zipties
+* Assorted Zipties
 
 ## Tools and supplies
 
-* Leaded Solder + Soldering Iron (TS100)
+* Leaded Solder + Soldering Iron (TS100) + Helping hands
 * Misc wire and barrel jack connector
 * Usb cables 
 * Hdmi Cable
- * Drill with drill bits and forstner bits ($17 forstner bit kit from The Home Depot)
+* Drill with drill bits and forstner bits ($17 forstner bit kit from The Home Depot)
 * Dremel with side cutter bit
 * Hot glue and hot glue gun
 * Label printer
-* Scrap wood for exiting drill bits
+* Scrap wood for exiting drill bits (< $1)
 * Safety glasses
 
 ### Optional
