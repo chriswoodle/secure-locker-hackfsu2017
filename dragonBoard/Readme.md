@@ -2,6 +2,9 @@
 
 The dragonbaord served as both the bridge-to-RFID and host for REDIS (Since I could not configure AWS Lightsail to run Redis in time).
 
+# TODO
+
+Recover source code from board
 # Dragonboard setup
 
 ## Install Debian os (Linaro)
@@ -53,3 +56,4 @@ Then you may want to remove the binding to only localhost, disable `save`, and r
 ```
 redis-server --protected-mode no
 ```
+
